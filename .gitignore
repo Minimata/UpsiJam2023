@@ -15,3 +15,4 @@ Content/Megascans
 *.xcodeproj
 *.xcworkspace
 *__External*
+*_BuiltData.uasset
